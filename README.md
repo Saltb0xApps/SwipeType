@@ -12,4 +12,4 @@ this no longer works with iOS 8 and above because there is no way for custom key
 ![Screenshot1](https://raw.githubusercontent.com/Saltb0xApps/SwipeType/master/ScreenShots/4%20Inch/Screenshot1.PNG)
 ![Screenshot2](https://raw.githubusercontent.com/Saltb0xApps/SwipeType/master/ScreenShots/4%20Inch/Screenshot2.PNG)
 ![Screenshot3](https://raw.githubusercontent.com/Saltb0xApps/SwipeType/master/ScreenShots/4%20Inch/screenshot3.jpg)
-![Screenshot4](https://raw.githubusercontent.com/Saltb0xApps/SwipeType/master/ScreenShots/4%20Inch/Screenshot4.png)
+![Screenshot4](https://raw.githubusercontent.com/Saltb0xApps/SwipeType/master/ScreenShots/4%20Inch/Sceenshot4.png)
